@@ -8,7 +8,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ## Get Started
 
 ```bash
-npm i
+npm install
 
 npm run dev
 ```
